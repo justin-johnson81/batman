@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\batman\.metadata\.plugins\org.eclipse.jdt.core
+3825637405.index
+711536214.index
+572863330.index
+37416653.index
+3939095824.index
+1284074322.index
